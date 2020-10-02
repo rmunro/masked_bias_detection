@@ -2,7 +2,7 @@
 
 This code accompanies the EMNLP 2020 short paper: 
 
-Robert (Munro) Monarch and Alex (Carmen) Morrison. 2020. Detecting Independent Pronoun Bias with Partially-Synthetic Data Generation. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+Robert (Munro) Monarch and Alex (Carmen) Morrison. 2020. Detecting Independent Pronoun Bias with Partially-Synthetic Data Generation. _In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)._
 
 ## Paper abstract:
 
