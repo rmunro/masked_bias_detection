@@ -49,7 +49,7 @@ The HuggingFace library contains many other masked language models that you can 
   author    = {Robert (Munro) Monarch and Alex (Carmen) Morrison},
   title     = {{Detecting Independent Pronoun Bias with Partially-Synthetic Data Generation}},
   journal   = {{Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)}},
-  location  = {online}
+  location  = {Online},
   year      = {2020}
 }
 ```
